@@ -30,7 +30,7 @@ html,body{
 .centerBlock{
   text-align: center;
   margin: auto;
-  height: 30%;
+  height: 35%;
   width: 50%;
   background-color: rgba(0, 0, 0, 0.18);
   position: absolute;
@@ -51,4 +51,13 @@ textarea{
   background-color: rgba(0, 0, 0, 0.18);
   display: flex;
   justify-content: center;
+}
+button {
+  cursor: pointer;
+  background-color: #3498db ;
+  border: 2px solid #3498db ;
+  border-radius: 4px;
+  color: #fff;
+  padding: 10px;
+  margin-top: 20px;
 }
