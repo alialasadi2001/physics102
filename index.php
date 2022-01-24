@@ -1,8 +1,6 @@
 <?php
 require('header.php');
  ?>
---------
-
       <form method="post">
         <div class="mb-3">
         <label for="formGroupExampleInput" class="form-label">Search the question</label>
