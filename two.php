@@ -10,32 +10,32 @@
             <input type="text" name="Q_value" id="Q value">
         </tr>
 
-        <div>
-        <div>
+        <br>
+        <br>
 
         <tr>
             <label for="xvalue"> x:</label>
             <input type="text" name="x_value" id="x value">
         </tr>
 
-        <div>
-        <div>
+        <br>
+        <br>
 
         <tr>
             <label for="qvalue"> q:</label>
             <input type="text" name="q_value" id="q value">
         </tr>
         
-        <div>
-        <div>
+        <br>
+        <br>
 
         <tr>
             <label for="mvalue"> m:</label>
             <input type="text" name="m_value" id="m value">
         </tr>
 
-        <div>
-        <div>
+        <br>
+        <br>
             
     </table>
 </form>
