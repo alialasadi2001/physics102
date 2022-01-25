@@ -15,6 +15,6 @@ require('header.php');
       </div>
       </form>
 
-      <a href="two.php">just to show</a>
+      <a color=black; href="two.php">just to show</a>
 
 <?php require('footer.php'); ?>

@@ -9,19 +9,19 @@
             <label for="Qvalue"> Q:</label>
             <input type="text" name="Q_value" id="Q value">
         </tr>
-
+        <div>
         <tr>
-            <label for="xvalue"> Q:</label>
+            <label for="xvalue"> x:</label>
             <input type="text" name="x_value" id="x value">
         </tr>
-
+        <div>
         <tr>
-            <label for="qvalue"> Q:</label>
+            <label for="qvalue"> q:</label>
             <input type="text" name="q_value" id="q value">
         </tr>
-
+        <div>
         <tr>
-            <label for="mvalue"> Q:</label>
+            <label for="mvalue"> m:</label>
             <input type="text" name="m_value" id="m value">
         </tr>
 
