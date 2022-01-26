@@ -30,7 +30,7 @@ html,body{
 .centerBlock{
   text-align: center;
   margin: auto;
-  height: 35%;
+  min-height: 35%;
   width: 50%;
   background-color: rgba(0, 0, 0, 0.18);
   position: absolute;
@@ -41,7 +41,7 @@ html,body{
   width:100%;
 }
 textarea{
-  min-height: 100px;
+  max-height: 100px;
 }
 .bottom{
   width: 100%;
