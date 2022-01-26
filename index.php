@@ -14,7 +14,7 @@ require('header.php');
           margin-top: 20px;"type="submit" name="button">Submit</button>
       </div>
       </form>
-
-      <a href="two.php">just to show</a>
+      <a href="one.php">question 1</a>
+      <a href="two.php">question 2</a>
 
 <?php require('footer.php'); ?>
