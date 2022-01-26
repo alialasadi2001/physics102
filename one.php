@@ -3,6 +3,7 @@
 ?>
 <form method="post">
     <p> Two equal positive poinnt charges Q=[] nC are placed at the base comes of an equilateral triangle of side length d=[]m as shown in the figure. What is the magnitude of the net electric field E in (N/C) at the point (A)? </p>
+    <img src="one.png">
     <table>
         <p> input the missing value (Q,d)</P>
         <tr>
