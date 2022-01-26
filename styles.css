@@ -30,8 +30,8 @@ html,body{
 .centerBlock{
   text-align: center;
   margin: auto;
-  min-height: 35%;
-  min-width: 50%;
+  min-height: 350;
+  min-width: 500;
   background-color: rgba(0, 0, 0, 0.18);
   position: absolute;
   top: 20%;
