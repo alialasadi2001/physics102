@@ -25,6 +25,18 @@
   <br>
   <a href="Four.php">question 4</a>
   <br>
+  <a href="five.php">question 5</a>
+  <br>
+  <a href="six.php">question 6</a>
+  <br>
+  <a href="seven.php">question 7</a>
+  <br>
+  <a href="eight.php">question 8</a>
+  <br>
+  <a href="nine.php">question 9</a>
+  <br>
+  <a href="ten.php">question 10</a>
+  <br>
 
 <?php
   require('footer.php');
