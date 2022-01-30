@@ -23,6 +23,8 @@
   <br>
   <a href="three.php">question 3</a>
   <br>
+  <a href="Four.php">question 4</a>
+  <br>
 
 <?php
   require('footer.php');
