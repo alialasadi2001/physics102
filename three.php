@@ -3,7 +3,7 @@
 ?>
 <form method="post">
     <p>In the figure, if Q=[]µC, q =[]µC, and d=[]cm, what is the magnitude of the electrostatic force on q?</p>
-    <img src="physics102\figures\three.png" style=" width:100px; height:100px; ">
+    <img src="three.png" style=" width:100px; height:100px; ">
     <br>
     <table>
         <p> input the missing value (Q,q,d)</P>
