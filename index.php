@@ -15,6 +15,10 @@ require('header.php');
       </div>
       </form>
       <a href="one.php">question 1</a>
+      <br>
       <a href="two.php">question 2</a>
+      <br>
+      <a href="three.php">question 2</a>
+      <br>
 
 <?php require('footer.php'); ?>
