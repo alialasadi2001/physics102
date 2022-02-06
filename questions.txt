@@ -1,0 +1,23 @@
+one: Two equal positive point charges Q=[] nC are placed at the base corners of an equilateral triangle of side length d=[]m as shown in the figure. What is the magnitude of the net electric field E in (N/C) at the top point (A)?
+
+two: A point charge Q=[] μC is fixed a distance x=[] m from point A as shown in the figure. A charged particle of q=[] nC and mass m=[] kg is realeased from rest at point A and moves along x-axis to infinity. What is the ultimate speed in (m/s) of the particle at infinity?
+
+three: In the figure, if Q=[]µC, q =[]µC, and d=[]cm, what is the magnitude of the electrostatic force on q?
+
+four: wo positive point charges of Q1=[]µC and Q2=[]µC are fixed on the x-axis as shown in the figure. Find the magnitude of the net electric force (in N) on a third negative charge of q=[] uC placed at the origin.
+
+five: Three point charges are fixed at the corners of the shown triangle where q1=q2=[] nC and q3=[] nC. Find the total electric potential (in V) at point A.
+
+six: 
+
+seven: A non-uniform electric field directed along the x-axis traverses a directed cubical surface oriented as shown in the figure. The cube has an edge length of L =[] m and the field varies from E1=[] N/C at x = 0 to E2=[] N/C at x = L. Find the total charge (in nC) enclosed by the cube.
+
+eight: Consider a small sphere of mass m=[] kg and charge q=[] μC suspended by a light string as shown in the figure. The sphere is in a uniform electric field of magnitude E=[] N/C applied vertically downward. Find the tension (in N) in the string?
+
+nine: An insulating sphere of uniformly-distributed charge q0 is placed concentrically inside a thick conducting spherical shell of net charge Q=[] nC, as shown in the figure. The net electric field at a distance r=[] m from the center is E=[] N/C pointing radially outward. Find q0 (in nC).
+
+ten: Two point charges are placed at the corners of the triangle shown in the figure where q1=[] nC q2=[] nC, and Θ=[]. Find the x component of the electric field in(N/C) at the origin
+
+elven: The figure shows a very long wire of uniform charge density λ=[] μC/m placed on the x axis. Find the magnitude of the electric force (in N) exerted on a point charge q= [] μc placed on the y axis at a distance r=[] m away from the wire.
+
+twelve: A dust particle of charge q0=[] nC and mass m=[]kg is placed in a uniform electric field of magnitude E=[] N/C as shown in the figure. The particle starts moving from rest at point A. Find it's speed (n m/s) at point B.
